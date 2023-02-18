@@ -1,5 +1,7 @@
 <h1 align="center">
   <br>
+ <img src="https://github.com/liinuu/atlas-bot-dpy/blob/530c91eee65fa20bd4343751821ad31c87f05555/map.png" alt="Map" margin-right: 10px;" width="600" height="300"/>
+ <br>
   Atlas | Discord.py Bot
   <br>
 </h1>
