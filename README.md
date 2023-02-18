@@ -1,8 +1,4 @@
-# atlas-bot-dpy
-
 <h1 align="center">
-  <br>
-  <a href="https://github.com/liinuu/atlas-bot-dpy/map.png)" alt="AtlasDiscordBot"></a>
   <br>
   Atlas | Discord.py Bot
   <br>
